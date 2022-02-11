@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xdF1EC5dA12796Fe744f20ec411584298a3C83bE1",
-  "SCAN_LINK": "https://ropsten.etherscan.io/address/0xdF1EC5dA12796Fe744f20ec411584298a3C83bE1",
+  "CONTRACT_ADDRESS": "0xe402ff31a95147ff1484bad33b867f1596a94058",
+  "SCAN_LINK": "https://ropsten.etherscan.io/address/0xe402ff31a95147ff1484bad33b867f1596a94058",
   "NETWORK": {
     "NAME": "Ether Ropsten",
     "SYMBOL": "ETH",
-    "ID": 3
+    "ID": 5
   },
   "NFT_NAME": "Naive Neko",
   "SYMBOL": "NNNFT",
