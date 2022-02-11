@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0xe402ff31a95147ff1484bad33b867f1596a94058",
   "SCAN_LINK": "https://ropsten.etherscan.io/address/0xe402ff31a95147ff1484bad33b867f1596a94058",
   "NETWORK": {
-    "NAME": "Ether Ropsten",
+    "NAME": "Ether Goerli",
     "SYMBOL": "ETH",
     "ID": 5
   },
