@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x52E5aB64da922fdcFeE353dD00592738Fe45F79D",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x52e5ab64da922fdcfee353dd00592738fe45f79d",
+  "CONTRACT_ADDRESS": "0xdF1EC5dA12796Fe744f20ec411584298a3C83bE1",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xdF1EC5dA12796Fe744f20ec411584298a3C83bE1",
   "NETWORK": {
-    "NAME": "Polygon Mumbai",
-    "SYMBOL": "MATIC",
-    "ID": 80001
+    "NAME": "Ether",
+    "SYMBOL": "ETH",
+    "ID": 5
   },
   "NFT_NAME": "Naive Neko",
   "SYMBOL": "NNNFT",
   "MAX_SUPPLY": 200,
-  "WEI_COST": 500000000000000000,
-  "DISPLAY_COST": 0.5,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/naive-neko",
